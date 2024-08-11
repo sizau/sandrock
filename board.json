@@ -1,8 +1,8 @@
 {
-    "status": "hidden",
-    "date": "2024/8/6",
-    "zh_title": "[模组] 框架\n在线公告|||[模组] 框架\n常见问题",
-    "zh_content": "placeholder|||placeholder",
-    "en_title": "[Mod] Framework\nAnnouncement|||[Mod] Framework\nFrequently Asked",
-    "en_content": "placeholder|||placeholder"
+    "status": "success",
+    "date": "2024/8/12",
+    "zh_title": "[模组] 框架\n兼容性提醒",
+    "zh_content": "目前在同时安装了恋爱与结婚（Lovers）和社交页（Social Page）时创建新游戏会导致游戏崩溃，且未结婚的存档可能会被强制结婚，建议暂时删除社交页（Social Page）。",
+    "en_title": "[Mod] Framework\nCompatibility Reminder",
+    "en_content": "Currently, if you install both \"Lovers\" and \"Social Page\", creating a new game will cause the game to crash, and unmarried saves may be forced to marry. It is recommended to temporarily delete \"Social Page\"."
 }
