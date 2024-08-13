@@ -1,8 +1,8 @@
 {
     "status": "success",
-    "date": "2024/8/12",
-    "zh_title": "[模组] 框架\n兼容性提醒",
-    "zh_content": "目前在同时安装了恋爱与结婚（Lovers）和社交页（Social Page）时创建新游戏会导致游戏崩溃，且未结婚的存档可能会被强制结婚，建议暂时删除社交页（Social Page）。",
-    "en_title": "[Mod] Framework\nCompatibility Reminder",
-    "en_content": "Currently, if you install both \"Lovers\" and \"Social Page\", creating a new game will cause the game to crash, and unmarried saves may be forced to marry. It is recommended to temporarily delete \"Social Page\"."
+    "date": "2024/8/14",
+    "zh_title": "[模组] 框架\n已知问题",
+    "zh_content": "- <b>框架（Framework）：</b>目前 Xbox 版本无法正确识别版本号，启动时会提示版本号为 0.0.0，该问题将在下个小版本中修复。<color=#facd89>提醒：目前大部分模组均可与 v1.2 兼容，但部分模组（如恋爱与结婚，Lovers）存在一定的兼容性问题，出现这种情况时请使用发布或更新时间早于2024年5月25日的旧版模组。</color>\n- <b>社交页（Social Page）：</b>目前在同时安装了恋爱与结婚（Lovers）和社交页（Social Page）时创建新游戏会导致游戏崩溃，且未结婚的存档可能会被强制结婚，建议暂时删除社交页（Social Page）。<color=#6acea2>此处指的是社交页（Social Page）而非社交与礼物（Social and Gifts）。</color>\n- <b>恋爱与结婚（Lovers）：</b>目前已知读取存档时床位配置会出现清空的问题，该问题将在下个版本修复。\n- <b>社交和礼物（Social and Gifts）：</b>捕获新宠物或者给宠物赠送任意物品后，显示礼物偏好的功能可能会失效，该问题将在下个版本修复。",
+    "en_title": "[Mod] Framework\nKnown Issues",
+    "en_content": "- <b>Framework (For Xbox Players):</b> The issue with version parsed as 0.0.0 will be fixed in the next minor version. <color=#facd89>Reminder: Most mods are currently compatible with v1.2, but some mods (such as Lovers) have certain compatibility issues. In this case, please use the old version of the mod that was released or updated before May 25, 2024. </color>\n- <b>Social Page:</b> Currently, if you install both \"Lovers\" and \"Social Page\", creating a new game will cause the game to crash, and unmarried saves may be forced to marry. It is recommended to temporarily delete \"Social Page\". <color=#6aceaa2>Note that this refers to the \"Social Page\" instead of \"Social and Gifts\".</color>\n- <b>Lovers:</b> The issue that bed slot arrangements would be cleared when loading the save will be fixed in the next version.\n- <b>Social and Gifts:</b> The problem that after capturing a new pet or gifting any item to a pet, \"Show All Preferences\" may become invalid will be fixed in the next version."
 }
