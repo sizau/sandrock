@@ -1,8 +1,8 @@
 {
-    "status": "hidden",
-    "date": "2024/8/30",
-    "zh_title": "[模组] 框架\n已知问题",
-    "zh_content": "- <b>PC Game Pass 玩家：</b>版本号识别的问题已在框架 3.0.6.1 版本中修复。\n<color=#facd89>提醒：目前 PC Game Pass 版本已更新到 v1.3，可以使用最新版本的模组了。</color>\n\n- <b>社交页（Social Page）：</b>目前在同时安装了恋爱与结婚（Lovers）和社交页（Social Page）时创建新游戏会导致游戏崩溃，且未结婚的存档可能会被强制结婚，建议暂时删除社交页（Social Page）。\n<color=#6acea2>此处指的是社交页（Social Page）而非社交与礼物（Social and Gifts）。</color>\n\n- <b>恋爱与结婚（Lovers）：</b>读取存档时床位配置会出现清空的问题已在 v1.2.7 修复。\n\n- <b>社交和礼物（Social and Gifts）：</b>显示礼物偏好的功能偶现失效的问题已在 v1.2.5 修复。\n\n- <b>自定义文本（Custom Text）：</b>目前该模组存在游戏更新，游戏原本的文本发生变更后，模组内的文本不会同步更新的问题，建议暂时移除。",
-    "en_title": "[Mod] Framework\nKnown Issues",
-    "en_content": "- <b>For PC Game Pass Players:</b> The issue with version number detection has been fixed in Framework 3.0.6.1. \n<color=#facd89>Reminder: The current PC Game Pass version has been updated to v1.3, and the latest version of the module can be used.</color>\n\n- <b>Social Page:</b> Currently, if you install both \"Lovers\" and \"Social Page\", creating a new game will cause the game to crash, and unmarried saves may be forced to marry. It is recommended to temporarily delete \"Social Page\". \n<color=#6acea2>Note that this refers to the \"Social Page\" instead of \"Social and Gifts\".</color>\n\n- <b>Lovers:</b> The issue where the bed configuration would be cleared when loading a save has been fixed in v1.2.7.\n\n- <b>Social and Gifts:</b> The issue where the function of displaying gift preferences would occasionally fail has been fixed in v1.2.5.\n\n- <b>Custom Text:</b> Currently, this mod has an issue where after a game update, the text in the mod will not be updated synchronously after the original text of the game is changed. It is recommended to temporarily remove it."
+    "status": "success",
+    "date": "2025/5/5",
+    "zh_title": "【公告】",
+    "zh_content": "今天我生日，发个公告庆祝一下 ；）",
+    "en_title": "[Announcement]",
+    "en_content": "Oh wait, let me check... Today is my birthday ; )"
 }
